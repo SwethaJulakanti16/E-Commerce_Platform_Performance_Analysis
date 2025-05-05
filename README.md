@@ -70,7 +70,8 @@ The report is organized into the following sections:
 - Revenue by Category  
 - Order Delay and Refund Overview  
 
-  ![Dashboard Overview]("C:\Users\sweth\OneDrive\Pictures\Screenshots\Screenshot 2025-05-04 192706.png")
+  <img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/54f6e759-4548-47d9-935c-8db0cfae097e" />
+
 
 ### 2. Delivery & Refund Analysis  
 - Refund Requests Distribution  
